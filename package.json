@@ -7,6 +7,10 @@
         "email": "yanzhenxing1234@gmail.com",
         "url": "https://zhenxingyan.github.io/"
     },
+    "scripts": {
+        "start": "babel-node tools/srcServer.js"
+    },
+    "license": "MIT",
     "dependencies": {
         "babel-polyfill": "^6.26.0",
         "bootstrap": "^4.1.3",
